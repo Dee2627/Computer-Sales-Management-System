@@ -1,0 +1,2 @@
+# Computer Sales Management System
+ A Computer Sales Management System built using Java and MySQL would typically serve as a software application designed to help businesses manage their computer sales operations efficiently. A Computer Sales Management System built using Java and MySQL would typically serve as a software application designed to help businesses manage their computer sales operations efficiently
